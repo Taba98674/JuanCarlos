@@ -1,0 +1,16 @@
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\Trabajo-Interfas.csproj.AssemblyReference.cache
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\Trabajo-Interfas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\MainWindow.g.cs
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\App.g.cs
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\Trabajo-Interfas_MarkupCompile.cache
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\Trabajo-Interfas_MarkupCompile.lref
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\bin\Debug\Trabajo-Interfas.exe.config
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\bin\Debug\Trabajo-Interfas.exe
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\bin\Debug\Trabajo-Interfas.pdb
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\MainWindow.baml
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\Trabajo-Interfas.g.resources
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\Trabajo_Interfas.Properties.Resources.resources
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\Trabajo-Interfas.csproj.GenerateResource.cache
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\Trabajo-Interfas.csproj.CoreCompileInputs.cache
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\Trabajo-Interfas.exe
+C:\Users\Yesid\OneDrive\Escritorio\C#\Trabajo-Interfas\Trabajo-Interfas\obj\Debug\Trabajo-Interfas.pdb
